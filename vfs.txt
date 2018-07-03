@@ -1,0 +1,5 @@
+# Main Objects
+
+make Applications *
+make Applications/Sweetheart *
+make Applications/Sweetheart/Hot hot
