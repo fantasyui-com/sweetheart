@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fantasyui-com/sweetheart#readme",
   "dependencies": {
-    "transfusion": "^1.23.0"
+    "transfusion": "^1.24.0"
   }
 }
