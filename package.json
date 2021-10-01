@@ -4,14 +4,15 @@
   "description": "Sweetheart is a free software tool intended to handle the administration and deployment of the Cuddlemuffin-Honeybunch database system.",
   "main": "index.js",
   "scripts": {
-    "build": "bin/build.sh"
+    "build": "bin/build.sh",
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/sweetheart.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fantasyui-com/sweetheart/issues"
