@@ -1,6 +1,6 @@
 {
   "name": "sweetheart",
-  "version": "1.31.0",
+  "version": "1.32.0",
   "description": "Sweetheart is a free software tool intended to handle the administration and deployment of the Cuddlemuffin-Honeybunch database system.",
   "main": "index.js",
   "scripts": {
